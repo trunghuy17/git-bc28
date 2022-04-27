@@ -1,1 +1,16 @@
-weqeqewqe
+1/ khởi tạo git     
+    -lệnh: git inits
+2/ kiểm tra phiên bản git  
+    -lệnh: git --version
+3/ đưa code của mình lên server github
+    -lệnh: -) git add . | git add ./html
+           -) git commit -m "your comment"
+           -) git push
+4/ kiểm tra trang thái của git
+    -lệnh: git status
+5/ lệnh giúp git biết dc sẽ đưa code lên chổ nào
+    -lệnh : git remote add origin {url_github}
+    ví dụ: git remote add origin https://github.com/nhokhellboy/git-bc28.git
+    note: ****
+6/ kiểm tra xem add remote thành công chưa
+    lệnh : git remotegit
